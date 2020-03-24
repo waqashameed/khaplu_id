@@ -74,7 +74,7 @@ class KhapluCard extends StatelessWidget {
                 ),
                 SizedBox(width: 10.0),
                 Text(
-                  'nomiaziz95@gmail.com',
+                  'nomiazizz95@gmail.com',
                   style: TextStyle(
                     color: Colors.grey[400],
                     letterSpacing: 1.0,
